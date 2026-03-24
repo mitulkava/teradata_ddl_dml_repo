@@ -1,0 +1,2 @@
+# teradata_ddl_dml_repo
+teradata_ddl_dml_repo
